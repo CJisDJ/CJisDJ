@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kacper
+- 👀 I’m interested in video games and programming.
+- 🌱 I’m currently learning HTML, CSS, C++ and PHP
+- 💞️ Not interested in colaboration for now
+- 📫 Contact info: CJisDJ#3130
