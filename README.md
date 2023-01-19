@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kacper
-- 👀 I’m interested in video games and programming.
+- 👀 I’m interested in rocket science, astronomy and programming.
 - 🌱 I’m currently learning Python, HTML, JS and PHP
 - 💞️ Not interested in colaboration for now
 - 📫 Contact info: CJisDJ#3130
